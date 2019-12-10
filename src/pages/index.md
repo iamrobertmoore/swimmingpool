@@ -19,36 +19,6 @@ sections:
         is_scrolly: false
         label: Details
         url: /generic
-    component: Features
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
-    subtitle: |-
-      Delegate your funds to the '**SWIM**' stake pool. 
-
-      As funds are accrued swimming pools will be built.
-
-      Sit back and wait for your nearest pool to open!
-    symbol_display:
-      - icon: fa-hand-holding-usd
-        title: Lorem
-      - icon: fa-code
-        title: Ipsum
-      - icon: fa-cog
-        title: Dolor
-      - icon: fa-swimming-pool
-        title: Feugiat
-    title: How does it work?
-    type: features
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Details
-        url: /generic
     component: Spotlight
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
