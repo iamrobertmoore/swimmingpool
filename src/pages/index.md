@@ -8,7 +8,7 @@ sections:
         url: 'https://staking.cardano.org/delegation/'
     component: Intro
     content: |-
-      An ADA Stake Pool
+      A high performance ADA Stake Pool
 
       Dedicated to funding the construction of swimming pools.
     img_path: images/pic01.jpg
