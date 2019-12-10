@@ -4,15 +4,20 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Delegate your funds
+        label: Delegate to us
         url: 'https://staking.cardano.org/delegation/'
     component: Intro
-    content: |-
-      A high performance ADA Stake Pool
+    content: >-
+      A high performance ADA Stake Pool running the latest in server
+      architecture.
 
-      Dedicated to funding the construction of swimming pools.
+
+      Dedicated to funding the construction of swimming pools around the world.
+
+
+      _More details to follow as the Shelley Incentivised Testnet rolls out._
     img_path: images/pic01.jpg
-    title: Swim Pool
+    title: Swim.Pool
     type: intro
 menus:
   main:
