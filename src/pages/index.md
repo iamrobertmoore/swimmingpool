@@ -7,9 +7,10 @@ sections:
         label: Delegate your funds
         url: 'https://staking.cardano.org/delegation/'
     component: Intro
-    content: >-
-      An ADA Stake Pool, dedicated to funding the construction of swimming
-      pools.
+    content: |-
+      An ADA Stake Pool
+
+      Dedicated to funding the construction of swimming pools.
     img_path: images/pic01.jpg
     title: Swim Pool
     type: intro
@@ -27,8 +28,11 @@ sections:
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
     subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+      Delegate your funds to the '**SWIM**' stake pool. 
+
+      As funds are accrued swimming pools will be built.
+
+      Sit back and wait for your nearest pool to open!
     symbol_display:
       - icon: fa-hand-holding-usd
         title: Lorem
@@ -36,9 +40,9 @@ sections:
         title: Ipsum
       - icon: fa-cog
         title: Dolor
-      - icon: swimming-pool
+      - icon: fa-swimming-pool
         title: Feugiat
-    title: Ipsum malesuada
+    title: How does it work?
     type: features
   - actions:
       - is_primary: false
