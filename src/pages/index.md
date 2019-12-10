@@ -16,7 +16,7 @@ sections:
 
 
       _More details to follow as the Shelley Incentivised Testnet rolls out._
-    img_path: images/pic01.jpg
+    img_path: /images/swimmingpool.jpg
     title: Swim.Pool
     type: intro
 menus:
