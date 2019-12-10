@@ -8,7 +8,7 @@ sections:
         url: 'https://staking.cardano.org/delegation/'
     component: Intro
     content: >-
-      A high performance ADA Stake Pool running the latest in server
+      A high performance ada Stake Pool running the latest in server
       architecture.
 
 
